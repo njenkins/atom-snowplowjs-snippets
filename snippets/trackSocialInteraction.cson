@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Social Interaction':
+     'prefix': 'sptracksocial'
+     'body' : '${1:snowplow_name_here}(\'trackSocialInteraction\', ${2:action}, ${3:network}, ${4:target});$0'
