@@ -7,6 +7,10 @@
 * newTracker
 * setCustomUrl
 * setReferrerUrl
+* setUserId
+* setUserIdFromCookie
+* setUserIdFromLocation
+* setUserIdFromReferrer
 * trackPageView
 * trackSocialInteraction
 * trackStructEvent

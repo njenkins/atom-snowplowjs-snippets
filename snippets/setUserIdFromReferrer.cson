@@ -1,0 +1,4 @@
+'.source.js':
+   'Set User Id From Referrer':
+     'prefix': 'spsetuidfromref'
+     'body' : '${1:snowplow_name_here}(\'setUserIdFromReferrer\', ${2:queryStringParameter});$0'

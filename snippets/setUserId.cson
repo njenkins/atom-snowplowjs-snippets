@@ -1,0 +1,4 @@
+'.source.js':
+   'Set User Id':
+     'prefix': 'spsetuid'
+     'body' : '${1:snowplow_name_here}(\'setUserId\', ${2:userId});$0'

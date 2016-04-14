@@ -1,0 +1,4 @@
+'.source.js':
+   'Set User Id From Location':
+     'prefix': 'spsetuidfromloc'
+     'body' : '${1:snowplow_name_here}(\'setUserIdFromLocation\', ${2:queryStringParameter});$0'

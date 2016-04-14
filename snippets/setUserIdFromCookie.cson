@@ -1,0 +1,4 @@
+'.source.js':
+   'Set User Id From Cookie':
+     'prefix': 'spsetuidfromcookie'
+     'body' : '${1:snowplow_name_here}(\'setUserIdFromCookie\', ${2:cookieName});$0'
