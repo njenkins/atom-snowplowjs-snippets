@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Page View':
+     'prefix': 'sptrackpage'
+     'body' : '${1:snowplow_name_here}(\'trackPageView\', ${2:customPageTitle}, ${3:contexts});$0'
