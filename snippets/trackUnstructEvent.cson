@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Unstructured Event':
+     'prefix': 'sptrackunstruct'
+     'body' : '${1:snowplow_name_here}(\'trackUnstructEvent\', ${2:igluJSON});$0'

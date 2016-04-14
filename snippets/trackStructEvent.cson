@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Structured Event':
+     'prefix': 'sptrackstruct'
+     'body' : '${1:snowplow_name_here}(\'trackStructEvent\', ${2:category}, ${3:action}, ${4:label}, ${5:property}, ${6:value}, ${7:context});$0'
