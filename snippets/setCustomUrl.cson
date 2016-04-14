@@ -1,0 +1,4 @@
+'.source.js':
+   'Set Custom Url':
+     'prefix': 'spsetcustomurl'
+     'body' : '${1:snowplow_name_here}(\'setCustomUrl\', ${2:customUrl});$0'
