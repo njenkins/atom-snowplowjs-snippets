@@ -1,0 +1,4 @@
+'.source.js':
+   'New Tracker':
+     'prefix': 'spnew'
+     'body' : '${1:snowplow_name_here}(\'newTracker\', ${2:trackerNamespace}, ${3:collectorEndpoint}, ${4:argmap});$0'

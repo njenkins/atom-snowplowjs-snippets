@@ -4,6 +4,7 @@
 
 ## Supported methods
 * enableActivityTracking
+* newTracker
 * setCustomUrl
 * setReferrerUrl
 * trackPageView
