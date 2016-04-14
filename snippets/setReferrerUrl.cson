@@ -1,4 +1,4 @@
 '.source.js':
    'Set Referrer Url':
-     'prefix': 'spreferrerurl'
+     'prefix': 'spsetreferrerurl'
      'body' : '${1:snowplow_name_here}(\'setReferrerUrl\', ${2:customReferrer});$0'
