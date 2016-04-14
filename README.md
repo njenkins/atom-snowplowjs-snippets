@@ -23,14 +23,12 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 ### enableActivityTracking
 #### [spenableact]
 ```js
-${1:snowplow_name_here}(\'enableActivityTracking\', ${2:minimumVisitLength}, ${3:heartBeat});$0
 ```
 
 ## New
 ### newTracker
 #### [spnew]
 ```js
-${1:snowplow_name_here}(\'newTracker\', ${2:trackerNamespace}, ${3:collectorEndpoint}, ${4:argmap});$0
 ```
 
 ## Set
