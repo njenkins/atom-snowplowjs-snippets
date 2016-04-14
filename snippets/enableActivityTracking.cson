@@ -1,0 +1,4 @@
+'.source.js':
+   'Enable Activity Tracking':
+     'prefix': 'spenableact'
+     'body' : '${1:snowplow_name_here}(\'enableActivityTracking\', ${2:minimumVisitLength}, ${3:heartBeat});$0'
