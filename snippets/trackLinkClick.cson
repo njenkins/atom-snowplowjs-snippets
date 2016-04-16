@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Link Click':
+     'prefix': 'sptracklink'
+     'body' : '${1:snowplow_name_here}(\'trackLinkClick\', ${2:targetUrl}, ${3:elementId}, ${4:elementClasses}, ${5:elementTarget}, ${6:elementContent});$0'

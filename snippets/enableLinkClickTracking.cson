@@ -1,0 +1,4 @@
+'.source.js':
+   'Enable Link Click Tracking':
+     'prefix': 'spenablelink'
+     'body' : '${1:snowplow_name_here}(\'enableLinkClickTracking\', ${2:filter}, ${3:pseudoclicks}, ${4:content});$0'

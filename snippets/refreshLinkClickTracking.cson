@@ -1,0 +1,4 @@
+'.source.js':
+   'Refresh Link Click Tracking':
+     'prefix': 'sprefreshlink'
+     'body' : '${1:snowplow_name_here}(\'refreshLinkClickTracking\');$0'

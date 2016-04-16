@@ -6,13 +6,16 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ## Supported methods
 * enableActivityTracking
+* enableLinkClickTracking
 * newTracker
+* refreshLinkClickTracking
 * setCustomUrl
 * setReferrerUrl
 * setUserId
 * setUserIdFromCookie
 * setUserIdFromLocation
 * setUserIdFromReferrer
+* trackLinkClick
 * trackPageView
 * trackSocialInteraction
 * trackStructEvent
@@ -22,63 +25,48 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 ## Enable
 ### enableActivityTracking
 #### [spenableact]
-```js
-```
+### enableLinkClickTracking
+#### [spenablelink]
 
 ## New
 ### newTracker
 #### [spnew]
-```js
-```
+
+## Refresh
+### refreshLinkClickTracking
+#### [sprefreshlink]
 
 ## Set
 ### setCustomUrl
 #### [spsetcustomurl]
-```js
-```
 
 ### setReferrerUrl
 #### [spsetreferrerurl]
-```js
-```
 
 ### setUserId
 #### [spsetuid]
-```js
-```
 
 ### setUserIdFromCookie
 #### [spsetuidfromcookie]
-```js
-```
 
 ### setUserIdFromLocation
 #### [spsetuidfromloc]
-```js
-```
 
 ### setUserIdFromReferrer
 #### [spsetuidfromref]
-```js
-```
 
 ## Track
+### trackLinkClick
+#### [sptracklink]
+
 ### trackPageView
 #### [sptrackpage]
-```js
-```
 
 ### trackSocialInteraction
 #### [sptracksocial]
-```js
-```
 
 ### trackStructEvent
 #### [sptrackstruct]
-```js
-```
 
 ### trackUnstructEvent
 #### [sptrackunstruct]
-```js
-```
