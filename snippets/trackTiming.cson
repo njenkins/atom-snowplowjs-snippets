@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Timing':
+     'prefix': 'sptracktiming'
+     'body' : '${1:snowplow_name_here}(\'trackTiming\', ${2:category}, ${3:variable}, ${4:timing}, ${5:label}, ${6:context});$0'

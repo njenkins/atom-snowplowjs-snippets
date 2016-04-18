@@ -68,5 +68,8 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 ### trackStructEvent
 #### [sptrackstruct]
 
+### trackTiming
+#### [sptracktiming]
+
 ### trackUnstructEvent
 #### [sptrackunstruct]
