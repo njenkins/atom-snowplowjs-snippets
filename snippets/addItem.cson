@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Item':
+     'prefix': 'spadditem'
+     'body' : '${1:snowplow_name_here}(\'addItem\', ${2:orderId}, ${3:sku}, ${4:productName}, ${5:categoryOrVariation}, ${6:unitPrice}, ${7:quantity}, ${8:currency}, ${9:context});$0'

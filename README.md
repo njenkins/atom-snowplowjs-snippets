@@ -5,6 +5,7 @@
 Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanalytics.com/) within [Atom](http://atom.io)
 
 ## Supported methods
+* addTrans
 * enableActivityTracking
 * enableLinkClickTracking
 * newTracker
@@ -19,8 +20,16 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * trackPageView
 * trackSocialInteraction
 * trackStructEvent
+* trackTiming
+* trackTrans
 * trackUnstructEvent
 
+## Add
+### addItem
+#### [spadditem]
+
+### addTrans
+#### [spaddtrans]
 
 ## Enable
 ### enableActivityTracking
@@ -70,6 +79,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### trackTiming
 #### [sptracktiming]
+
+### trackTrans
+#### [sptracktrans]
 
 ### trackUnstructEvent
 #### [sptrackunstruct]

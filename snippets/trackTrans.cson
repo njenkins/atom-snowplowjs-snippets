@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Transaction':
+     'prefix': 'sptracktrans'
+     'body' : '${1:snowplow_name_here}(\'trackTrans\');$0'

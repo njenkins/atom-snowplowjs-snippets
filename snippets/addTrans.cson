@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Transaction':
+     'prefix': 'spaddtrans'
+     'body' : '${1:snowplow_name_here}(\'addTrans\', ${2:orderId}, ${3:affiliationOrStorename}, ${4:totalSpend}, ${5:shippingCost}, ${6:city}, ${7:stateOrProvince}, ${8:country}, ${9:currency}, ${10:context});$0'
