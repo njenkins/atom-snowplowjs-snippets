@@ -18,6 +18,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * setUserIdFromReferrer
 * trackLinkClick
 * trackPageView
+* trackSiteSearch
 * trackSocialInteraction
 * trackStructEvent
 * trackTiming
@@ -70,6 +71,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### trackPageView
 #### [sptrackpage]
+
+### trackSiteSearch
+#### [sptracksitesearch]
 
 ### trackSocialInteraction
 #### [sptracksocial]

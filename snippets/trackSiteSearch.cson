@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Site Search':
+     'prefix': 'sptracksitesearch'
+     'body' : '${1:snowplow_name_here}(\'trackSiteSearch\', ${2:[terms]}, ${3:[filters]}, ${4:totalResults}, ${5:pageResults}, ${6:context});$0'
