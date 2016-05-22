@@ -66,6 +66,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 #### [spsetuidfromref]
 
 ## Track
+### trackAdImpression
+#### [sptrackadimp]
+
 ### trackLinkClick
 #### [sptracklink]
 

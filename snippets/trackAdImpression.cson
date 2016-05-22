@@ -1,0 +1,17 @@
+'.source.js':
+   'Track Ad Impression':
+     'prefix': 'sptrackadimp'
+     'body' : '${1:snowplow_name_here}(\'trackAdImpression\', ${2:impressionId}, ${3:costmodel}, ${4:cost}, ${5:targetUrl}, ${6:bannerId}, ${6:zoneId}, ${7:advertiserId}, ${8:campaignId}, ${9:context});$0'
+
+
+snowplow_name_here('trackAdImpression:' + rnd,
+
+    '67965967893',             // impressionId
+    'cpm',                     // costModel - 'cpa', 'cpc', or 'cpm'
+     5.5,                      // cost
+    'http://www.example.com',  // targetUrl
+    '23',                      // bannerId
+    '7',                       // zoneId
+    '201',                     // advertiserId
+    '12'                       // campaignId
+);
