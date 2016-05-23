@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Ad Conversion':
+     'prefix': 'sptrackadconv'
+     'body' : '${1:snowplow_name_here}(\'trackAdConversion\', ${2:conversionId}, ${3:cost}, ${4:category}, ${5:action}, ${6:property}, ${7:initialValue}, ${8:advertiserId}, ${9:costModel}, ${10:campaignId});$0'

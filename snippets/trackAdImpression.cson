@@ -1,4 +1,4 @@
 '.source.js':
    'Track Ad Impression':
      'prefix': 'sptrackadimp'
-     'body' : '${1:snowplow_name_here}(\'trackAdImpression\', ${2:impressionId}, ${3:costmodel}, ${4:cost}, ${5:targetUrl}, ${6:bannerId}, ${6:zoneId}, ${7:advertiserId}, ${8:campaignId}, ${9:context});$0'
+     'body' : '${1:snowplow_name_here}(\'trackAdImpression\', ${2:impressionId}, ${3:costmodel}, ${4:cost}, ${5:targetUrl}, ${6:bannerId}, ${7:zoneId}, ${8:advertiserId}, ${9:campaignId}, ${10:context});$0'
