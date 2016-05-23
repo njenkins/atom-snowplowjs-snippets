@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Ad Click':
+     'prefix': 'sptrackadclick'
+     'body' : '${1:snowplow_name_here}(\'trackAdClick\', ${2:targetUrl}, ${3:clickId}, ${4:costModel}, ${5:cost}, ${6:bannerId}, ${6:zoneId}, ${7:impressionId}, ${8:advertiserId}, ${9:campaignId}, ${10:context});$0'
