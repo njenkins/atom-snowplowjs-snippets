@@ -12,7 +12,7 @@
     "analytics",
     "snowplow",
     "data science"
-  ], 
+  ],
   "engines": {
     "atom": ">0.50.0"
   },
