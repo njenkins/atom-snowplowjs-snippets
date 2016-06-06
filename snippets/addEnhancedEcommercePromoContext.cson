@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Enhanced Ecommerce Promo Context':
+     'prefix': 'spaddecommpromo'
+     'body' : '${1:snowplow_name_here}(\'addEnhancedEcommercePromoContext\', ${2:id}, ${3:name}, ${4:creative}, ${5:position}, ${6:currency});$0'

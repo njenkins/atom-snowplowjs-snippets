@@ -8,6 +8,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * addEnhancedEcommerceActionContext
 * addEnhancedEcommerceImpressionContext
 * addEnhancedEcommerceProductContext
+* addEnhancedEcommercePromoContext
 * addItem
 * addTrans
 * enableActivityTracking
@@ -41,6 +42,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### addEnhancedEcommerceProductContext
 #### [spaddecommprod]
+
+### addEnhancedEcommercePromoContext
+#### [spaddecommpromo]
 
 ### addItem
 #### [spadditem]
