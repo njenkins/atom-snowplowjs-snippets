@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Enhanced Ecommerce Product Context':
+     'prefix': 'spaddecommprod'
+     'body' : '${1:snowplow_name_here}(\'addEnhancedEcommerceProductContext\', ${2:id}, ${3:name}, ${4:list}, ${5:brand}, ${6:category}, ${7:variant}, ${8:price}, ${9:quantity}, ${10:coupon}, ${11:position}, ${12:currency});$0'
