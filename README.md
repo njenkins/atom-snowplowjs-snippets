@@ -5,6 +5,7 @@
 Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanalytics.com/) within [Atom](http://atom.io)
 
 ## Supported methods
+* addEnhancedEcommerceActionContext
 * addTrans
 * enableActivityTracking
 * enableLinkClickTracking
@@ -29,6 +30,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * trackUnstructEvent
 
 ## Add
+### addEnhancedEcommerceActionContext
+#### [spaddecommaction]
+
 ### addItem
 #### [spadditem]
 

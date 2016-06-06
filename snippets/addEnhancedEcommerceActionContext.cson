@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Enhanced Ecommerce Action Context':
+     'prefix': 'spaddecommaction'
+     'body' : '${1:snowplow_name_here}(\'addEnhancedEcommerceActionContext\', ${2:id}, ${3:affiliation}, ${4:revenue}, ${5:tax}, ${6:shipping}, ${7:coupon}, ${8:list}, ${9:step}, ${10:option}, ${11:currency});$0'
