@@ -33,6 +33,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 ### addEnhancedEcommerceActionContext
 #### [spaddecommaction]
 
+### addEnhancedEcommerceImpressionContext
+#### [spaddecommimpr]
+
 ### addItem
 #### [spadditem]
 

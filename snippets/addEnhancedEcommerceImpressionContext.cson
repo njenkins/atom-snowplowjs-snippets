@@ -1,0 +1,4 @@
+'.source.js':
+   'Add Enhanced Ecommerce Impression Context':
+     'prefix': 'spaddecommimpr'
+     'body' : '${1:snowplow_name_here}(\'addEnhancedEcommerceImpressionContext\', ${2:id}, ${3:name}, ${4:list}, ${5:brand}, ${6:category}, ${7:variant}, ${8:position}, ${9:price}, ${10:currency});$0'
