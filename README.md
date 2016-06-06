@@ -24,6 +24,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * trackAdClick
 * trackAdConversion
 * trackAdImpression
+* trackEnhancedEcommerceAction
 * trackLinkClick
 * trackPageView
 * trackSiteSearch
@@ -95,6 +96,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### trackAdImpression
 #### [sptrackadimp]
+
+### trackEnhancedEcommerceAction
+#### [sptrackenhanced]
 
 ### trackLinkClick
 #### [sptracklink]

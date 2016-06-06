@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Enhanced Ecommerce Action':
+     'prefix': 'sptrackenhanced'
+     'body' : '${1:snowplow_name_here}(\'trackEnhancedEcommerceAction\', ${2:action});$0'
