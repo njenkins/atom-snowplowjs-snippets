@@ -1,0 +1,4 @@
+'.source.js':
+   'Flush Buffer':
+     'prefix': 'spflush'
+     'body' : '${1:snowplow_name_here}(\'flushBuffer\');$0'

@@ -13,6 +13,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * addTrans
 * enableActivityTracking
 * enableLinkClickTracking
+* flushBuffer
 * newTracker
 * refreshLinkClickTracking
 * setCustomUrl
@@ -58,6 +59,10 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 #### [spenableact]
 ### enableLinkClickTracking
 #### [spenablelink]
+
+## Flush
+### flushBuffer
+#### [spflush]
 
 ## New
 ### newTracker
