@@ -1,0 +1,4 @@
+'.source.js':
+   'Track Self Describing Event':
+     'prefix': 'sptrackself'
+     'body' : '${1:snowplow_name_here}(\'trackSelfDescribingEvent\', ${2:igluJSON});$0'

@@ -28,6 +28,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * trackEnhancedEcommerceAction
 * trackLinkClick
 * trackPageView
+* trackSelfDescribingEvent
 * trackSiteSearch
 * trackSocialInteraction
 * trackStructEvent
@@ -110,6 +111,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### trackPageView
 #### [sptrackpage]
+
+### trackSelfDescribingEvent
+#### [sptrackself]
 
 ### trackSiteSearch
 #### [sptracksitesearch]
