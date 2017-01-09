@@ -1,0 +1,4 @@
+'.source.js':
+   'Enable Error Tracking':
+     'prefix': 'spenableerror'
+     'body' : '${1:snowplow_name_here}(\'enableErrorTracking\');$0'
