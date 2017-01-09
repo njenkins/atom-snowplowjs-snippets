@@ -23,6 +23,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * setUserIdFromCookie
 * setUserIdFromLocation
 * setUserIdFromReferrer
+* setVisitorCookieTimeout
 * trackAdClick
 * trackAdConversion
 * trackAdImpression
@@ -96,6 +97,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### setUserIdFromReferrer
 #### [spsetuidfromref]
+
+### setVisitorCookieTimeout
+#### [spsetcookietimeout]
 
 ## Track
 

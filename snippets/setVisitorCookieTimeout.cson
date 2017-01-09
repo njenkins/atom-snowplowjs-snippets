@@ -1,0 +1,4 @@
+'.source.js':
+   'Set Visitor Cookie Timeout':
+     'prefix': 'spsetcookietimeout'
+     'body' : '${1:snowplow_name_here}(\'setVisitorCookieTimeout\', ${2:timeoutSeconds});$0'
