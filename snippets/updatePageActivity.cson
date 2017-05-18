@@ -1,0 +1,4 @@
+'.source.js':
+   'Update Page Activity':
+     'prefix': 'spupdatepage'
+     'body' : '${1:snowplow_name_here}(\'updatePageActivity\');$0'

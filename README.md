@@ -38,6 +38,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * trackTiming
 * trackTrans
 * trackUnstructEvent
+* updatePageActivity
 
 ## Add
 ### addEnhancedEcommerceActionContext
@@ -145,3 +146,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 
 ### trackUnstructEvent
 #### [sptrackunstruct]
+
+## Update
+### updatePageActivity
+#### [spupdatepage]
