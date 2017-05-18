@@ -18,6 +18,7 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 * newTracker
 * refreshLinkClickTracking
 * setCustomUrl
+* setOptOutCookie
 * setReferrerUrl
 * setUserId
 * setUserIdFromCookie
@@ -82,6 +83,9 @@ Snippets for working with the [Snowplow Javascript Tracker](http://snowplowanaly
 ## Set
 ### setCustomUrl
 #### [spsetcustomurl]
+
+### setOptOutCookie
+#### [spsetoptout]
 
 ### setReferrerUrl
 #### [spsetreferrerurl]

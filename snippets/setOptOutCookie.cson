@@ -1,0 +1,4 @@
+'.source.js':
+   'Set Opt Out Cookie':
+     'prefix': 'spsetoptout'
+     'body' : '${1:snowplow_name_here}(\'setOptOutCookie\', \'opt-out\');$0'
